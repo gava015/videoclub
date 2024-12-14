@@ -11,7 +11,6 @@ import com.springboot.videoclub.videoclubapp.model.Movie;
 import lombok.EqualsAndHashCode;
 
 
-
 @Service
 public class MovieService {
     private final List<Movie> movies = new ArrayList<>();

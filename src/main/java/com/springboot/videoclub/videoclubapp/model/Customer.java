@@ -18,3 +18,4 @@ public class Customer {
         this.loyaltyPoints += points;
     }
 }
+
